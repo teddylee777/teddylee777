@@ -2,6 +2,10 @@
 
 🏆 [텐서플로우 자격증 강의](https://learnaday.kr/open-course/tfcert)
 
+📄 블로그 [테디노트](https://teddylee777.github.io/) 운영
+
+🎥 유튜브 [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q) 운영
+
 📌 Tensorflow Developers Certificate
 📌 Founder of Braincrew Inc.
 📌 Data Science/ML/DL
