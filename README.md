@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+⚡ [텐서플로우 자격증 강의](https://learnaday.kr/open-course/tfcert)
 <!--
 **teddylee777/teddylee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
