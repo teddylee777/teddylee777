@@ -1,6 +1,6 @@
 ### Teddy Lee 👋
 
-📌 Tensorflow Developers Certificate
+📌 TensorFlow Developers Certificate
 📌 Founder of Braincrew Inc.
 📌 Data Science/ML/DL
 📌 Worked @ Samsung Electronics
