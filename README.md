@@ -12,10 +12,9 @@
 🎥 유튜브 [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q) 운영
 
 💻 **강의**
-- ✔️ 패스트캠퍼스 강의 - 직장인을 위한 파이썬 데이터분석 올인원 패키지 Online.
+- ✔️ 패스트캠퍼스 강의 - [직장인을 위한 파이썬 데이터분석 올인원 패키지 Online](https://fastcampus.co.kr/data_online_pyd).
 - ✔️ 패스트캠퍼스 Byte Degree 프로젝트 감수 - Byte Degree : Machine Learning with Python.
 - ✔️ 패스트캠퍼스 데이터분석 Capstone 프로젝트 & 포트폴리오 완성 과정 강의.
-- ✔️ 텐서플로우 자격 인증 과정 강의 - 텐서플로우 자격인증시험 강의(learnaday), 텐서플로우 자격인증시험 강의(festa).
 - ✔️ 대구 디지털진흥원 - A.I. 트렌드 2020 & 비즈니스 적용 강연.
 - ✔️ SK그룹 기업 (파이썬, 데이터분석, 머신러닝, 텐서플로우) 강의.
 - ✔️ KT AI 교육센터 (텐서플로우 자격 인증 과정) 강의.
