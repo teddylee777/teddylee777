@@ -7,7 +7,7 @@
 
 🏆 [텐서플로우 자격증 강의](https://learnaday.kr/open-course/tfcert)
 
-📗 [파이썬 딥러닝 텐서플로(2021)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2) 저자
+📗 [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2) 저자
 
 📄 블로그 [테디노트](https://teddylee777.github.io/) 운영
 
