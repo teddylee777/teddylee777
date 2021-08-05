@@ -31,6 +31,7 @@
 - ✔️ 패스트캠퍼스 - [파이썬 딥러닝 300제](https://fastcampus.co.kr/data_online_dl300) 강의
 - ✔️ 대구 디지털진흥원 - Python, 데이터분석, 시각화, 머신러닝 강의.
 - ✔️ 섹터나인Secta9ine - 데이터 분석 강의
+
 <!--
 **teddylee777/teddylee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
