@@ -13,7 +13,7 @@
 
 🎥 유튜브 [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q) 운영
 
-💻 **강의**
+💻 **강의/강연**
 - ✔️ 패스트캠퍼스 강의 - [직장인을 위한 파이썬 데이터분석 올인원 패키지 Online](https://fastcampus.co.kr/data_online_pyd).
 - ✔️ 패스트캠퍼스 Byte Degree 프로젝트 감수 - Byte Degree : Machine Learning with Python.
 - ✔️ 패스트캠퍼스 데이터분석 Capstone 프로젝트 & 포트폴리오 완성 과정 강의.
@@ -31,7 +31,10 @@
 - ✔️ 패스트캠퍼스 - [파이썬 딥러닝 300제](https://fastcampus.co.kr/data_online_dl300) 강의.
 - ✔️ 대구 디지털진흥원 - Python, 데이터분석, 시각화, 머신러닝 강의.
 - ✔️ 섹터나인Secta9ine - 데이터 분석 강의.
+- ✔️ 대구 디지털진흥원 - 6차수. Python, 데이터분석, 딥러닝(텐서플로) 강의.
+- ✔️ 야곰(yagom) - [인공지능(AI)의 현재와 미래](https://yagom.net/courses/techcast-7/) 스피커.
 - ✔️ CJ올리브네트웍스 - Python, 데이터분석, 시각화, 머신러닝, 딥러닝 강의.
+
 
 <!--
 **teddylee777/teddylee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
