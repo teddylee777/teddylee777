@@ -22,15 +22,16 @@
 - ✔️ KT AI 교육센터 (텐서플로우 자격 인증 과정) 강의.
 - ✔️ 멀티캠퍼스 (텐서플로우 자격 인증 과정) 강의.
 - ✔️ 서울대학교 평생교육원 텐서플로우 개발자 과정 강의.
-- ✔️ 인프런 [텐서플로우 자격 인증](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%9E%90%EA%B2%A9%EC%A6%9D) 과정
-- ✔️ 런어데이 [텐서플로우 자격 인증](https://learnaday.kr/open-course/tfcert) 과정
+- ✔️ 인프런 [텐서플로우 자격 인증](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%9E%90%EA%B2%A9%EC%A6%9D) 과정.
+- ✔️ 런어데이 [텐서플로우 자격 인증](https://learnaday.kr/open-course/tfcert) 과정.
 - ✔️ 고려대학교 기술경영대학원 - 딥러닝 GAN 특화 과정, 머신러닝 특화 과정 강의.
 - ✔️ 삼성SDS - Senior DS Level 2 인증과정 강의.
 - ✔️ DB 인재개발원 - Python 데이터 분석, 머신러닝 강의.
 - ✔️ NIA 한국정보와진흥원 - 텐서플로우 강의.
-- ✔️ 패스트캠퍼스 - [파이썬 딥러닝 300제](https://fastcampus.co.kr/data_online_dl300) 강의
+- ✔️ 패스트캠퍼스 - [파이썬 딥러닝 300제](https://fastcampus.co.kr/data_online_dl300) 강의.
 - ✔️ 대구 디지털진흥원 - Python, 데이터분석, 시각화, 머신러닝 강의.
-- ✔️ 섹터나인Secta9ine - 데이터 분석 강의
+- ✔️ 섹터나인Secta9ine - 데이터 분석 강의.
+- ✔️ CJ올리브네트웍스 - Python, 데이터분석, 시각화, 머신러닝, 딥러닝 강의.
 
 <!--
 **teddylee777/teddylee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
