@@ -22,8 +22,8 @@
 - ✔️ 대구 디지털진흥원 - A.I. 트렌드 2020 & 비즈니스 적용 강연.
 - ✔️ SK그룹 기업 (파이썬, 데이터분석, 머신러닝, 텐서플로우) 강의.
 - ✔️ KT AI 교육센터 (텐서플로우 자격 인증 과정) 강의.
-- ✔️ 멀티캠퍼스 (텐서플로우 자격 인증 과정) 강의.
-- ✔️ 서울대학교 평생교육원 텐서플로우 개발자 과정 강의.
+- ✔️ 멀티캠퍼스 - [텐서플로우 자격 인증 과정](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&corsCd=FA00BY) 강의.
+- ✔️ 서울대학교 평생교육원 [텐서플로우 개발자 과정](https://snui.snu.ac.kr/el/course/course_info_form.acl?COURSE_SEQ=204&LECTURE_SEQ=258) 강의.
 - ✔️ 인프런 [텐서플로우 자격 인증](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%9E%90%EA%B2%A9%EC%A6%9D) 과정.
 - ✔️ 런어데이 [텐서플로우 자격 인증](https://learnaday.kr/open-course/tfcert) 과정.
 - ✔️ 고려대학교 기술경영대학원 - 딥러닝 GAN 특화 과정, 머신러닝 특화 과정 강의.
