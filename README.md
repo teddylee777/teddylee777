@@ -9,7 +9,7 @@
 
 📗 [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2) 저자
 
-<img src="http://image.kyobobook.co.kr/images/book/xlarge/099/x9788956749099.jpg" width="200px" />
+<img src="http://image.kyobobook.co.kr/images/book/xlarge/099/x9788956749099.jpg" width="150px" />
 
 📄 블로그 [테디노트](https://teddylee777.github.io/) 운영
 
