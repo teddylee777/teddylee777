@@ -37,7 +37,7 @@
 - ✔️ 야곰(yagom) - [인공지능(AI)의 현재와 미래](https://yagom.net/courses/techcast-7/) 스피커.
 - ✔️ CJ올리브네트웍스 - Python, 데이터분석, 시각화, 머신러닝, 딥러닝 강의.
 - ✔️ DB 인재개발원 - 머신러닝 중급과정 강의.
-
+- ✔️ 충남 AI, SW교육 한마당 진로특강
 
 <!--
 **teddylee777/teddylee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
