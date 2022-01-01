@@ -5,7 +5,7 @@
 📌 Data Science/ML/DL
 📌 Worked @ Samsung Electronics
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teddylee777?theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teddylee777&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🏆 [텐서플로우 자격증 강의](https://learnaday.kr/open-course/tfcert)
 
