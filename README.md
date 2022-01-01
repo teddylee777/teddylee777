@@ -15,6 +15,8 @@
 
 🎥 유튜브 [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q) 운영
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teddylee777)](https://github.com/anuraghazra/github-readme-stats)
+
 💻 **강의/강연**
 - ✔️ 패스트캠퍼스 강의 - [직장인을 위한 파이썬 데이터분석 올인원 패키지 Online](https://fastcampus.co.kr/data_online_pyd).
 - ✔️ 패스트캠퍼스 Byte Degree 프로젝트 감수 - Byte Degree : Machine Learning with Python.
