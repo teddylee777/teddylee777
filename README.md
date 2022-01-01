@@ -5,6 +5,8 @@
 📌 Data Science/ML/DL
 📌 Worked @ Samsung Electronics
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teddylee777)](https://github.com/anuraghazra/github-readme-stats)
+
 🏆 [텐서플로우 자격증 강의](https://learnaday.kr/open-course/tfcert)
 
 📗 [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2) 저자
@@ -14,8 +16,6 @@
 📄 블로그 [테디노트](https://teddylee777.github.io/) 운영
 
 🎥 유튜브 [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q) 운영
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teddylee777)](https://github.com/anuraghazra/github-readme-stats)
 
 💻 **강의/강연**
 - ✔️ 패스트캠퍼스 강의 - [직장인을 위한 파이썬 데이터분석 올인원 패키지 Online](https://fastcampus.co.kr/data_online_pyd).
