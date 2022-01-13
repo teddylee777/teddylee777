@@ -43,6 +43,9 @@
 - ✔️ DB 인재개발원 - 머신러닝 중급과정 강의.
 - ✔️ 충남 AI, SW교육 한마당 진로특강
 - ✔️ 한림대학교 - 비전공자 대상 데이터 분석 특강
+- ✔️ 한신대학교 - ABC(AI, Bigdata, Contents) 캠프 AI 특강
+
+
 
 <!--
 **teddylee777/teddylee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
