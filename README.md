@@ -17,7 +17,7 @@
 
 📄 블로그 [테디노트](https://teddylee777.github.io/) 운영
 
-🎥 유튜브 [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q) 운영
+✨ 유튜브 [테디노트](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q) 운영
 
 💻 **강의/강연**
 - ✔️ 패스트캠퍼스 강의 - [직장인을 위한 파이썬 데이터분석 올인원 패키지 Online](https://fastcampus.co.kr/data_online_pyd).
@@ -46,20 +46,3 @@
 - ✔️ 한신대학교 - ABC(AI, Bigdata, Contents) 캠프 AI 특강.
 - ✔️ 청년인재 AI 이어드림스쿨 - "나만의 인공지능 학습 노하우" 특강.
 - ✔️ 금오공과대학교 - 텐서플로우 자격 인증 과정 강의.
-
-
-
-<!--
-**teddylee777/teddylee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
