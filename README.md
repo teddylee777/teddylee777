@@ -50,5 +50,6 @@
 - ✔️ 한양대학교 - 데이터 역량강화 교육 특강.
 - ✔️ Udemy – [한 방으로 끝내는 판다스 Pandas](https://www.udemy.com/course/pandas-i/)
 - ✔️ 대구 디지털산업진흥원 – 2022년도 빅데이터 분석 강의.
+- ✔️ 엘리스(Elice) - 파이썬 입문 VOD 강의.
 - ✔️ 세교고등학교 - ABC 캠프 (쉽게 배우는 인공지능) 강의.
 - ✔️ SK그룹 - Project Based Learning (PBL) 멘토 & 강의.
