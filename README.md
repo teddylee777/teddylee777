@@ -55,3 +55,5 @@
 - ✔️ 세교고등학교 - ABC 캠프 (쉽게 배우는 인공지능) 강의.
 - ✔️ SK그룹 - Project Based Learning (PBL) 멘토 & 강의.
 - ✔️ 한신대학교 - ABC(AI, Bigdata, Contents) 캠프 2022 여름학기 AI 특강.
+- ✔️ DB 인재개발원 - 2022 머신러닝/딥러닝 .
+
