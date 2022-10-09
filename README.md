@@ -56,5 +56,5 @@
 - ✔️ SK그룹 - Project Based Learning (PBL) 멘토 & 강의.
 - ✔️ 한신대학교 - ABC(AI, Bigdata, Contents) 캠프 2022 여름학기 AI 특강.
 - ✔️ DB 인재개발원 - 2022 머신러닝/딥러닝.
-- ✔️ 엘리스(Elice) - Pandas 데이터 .
+- ✔️ 엘리스(Elice) - Pandas 데이터분석 VOD 강의.
 
