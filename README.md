@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddylee777&show_icons=true&theme=highcontrast)
+## Teddy Lee (이경록) 👋
 
-### Teddy Lee (이경록) 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddylee777&show_icons=true&theme=highcontrast)
 
 📌 TensorFlow Developers Certificate
 📌 Founder of Braincrew Inc.
