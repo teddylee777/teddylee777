@@ -1,19 +1,19 @@
-### Teddy Lee 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddylee777&show_icons=true&theme=radical)
+
+### Teddy Lee (이경록) 👋
 
 📌 TensorFlow Developers Certificate
 📌 Founder of Braincrew Inc.
 📌 Data Science/ML/DL
 📌 Worked @ Samsung Electronics
 
-- <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="teddynote" height="16" width="16"> [@teddynote](https://instagram.com/teddynote)</a>
-
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="teddynote" height="16" width="16"> [테디노트 Blog](https://teddylee777.github.io/)
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="teddynote" height="16" width="16"> [테디노트 YouTube](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
 
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="teddynote" height="16" width="16"> [LinkedIn](https://www.linkedin.com/in/teddy-lee/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="teddynote" height="16" width="16"> [@teddynote](https://instagram.com/teddynote)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teddylee777&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="teddynote" height="16" width="16"> [LinkedIn](https://www.linkedin.com/in/teddy-lee/)
 
 💻 [한 방으로 끝내는 판다스](https://www.udemy.com/course/pandas-i/)
 
