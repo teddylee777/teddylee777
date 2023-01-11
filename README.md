@@ -5,6 +5,8 @@
 📌 Data Science/ML/DL
 📌 Worked @ Samsung Electronics
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="teddynote" height="28" width="28">@teddynote
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teddylee777&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 💻 [한 방으로 끝내는 판다스](https://www.udemy.com/course/pandas-i/)
