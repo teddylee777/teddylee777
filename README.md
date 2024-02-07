@@ -1,33 +1,47 @@
 ## Teddy Lee (이경록) 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteddylee777%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=adblock.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddylee777&show_icons=true&theme=highcontrast)
-
 📌 TensorFlow Developers Certificate
 📌 Founder of Braincrew Inc.
 📌 Data Science/ML/DL
 📌 Worked @ Samsung Electronics
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="teddynote" height="16" width="16"> [테디노트 Blog](https://teddylee777.github.io/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteddylee777%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=adblock.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="teddynote" height="16" width="16"> [테디노트 YouTube](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="teddynote" height="16" width="16"> [@teddynote](https://instagram.com/teddynote)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teddylee777&show_icons=true&theme=highcontrast" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddylee777&" alt="teddylee777" />
+</p>
 
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="teddynote" height="16" width="16"> [LinkedIn](https://www.linkedin.com/in/teddy-lee/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-💻 [한 방으로 끝내는 판다스](https://www.udemy.com/course/pandas-i/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+<a href="https://www.youtube.com/c/@teddynote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@teddynote" height="30" width="40" /></a>
+<a href="https://teddylee777.github.io" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="teddynote" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/teddy-lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/teddylee" height="30" width="40" /></a>
+<a href="https://instagram.com/teddynote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teddynote" height="30" width="40" /></a>
 
-🏆 [텐서플로우 자격증 강의](https://learnaday.kr/open-course/tfcert)
+</p>
 
-💡 [깃헙 블로그(Github Blog)로 차별화 된 나만의 홈페이지 만들기!](https://www.inflearn.com/course/%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B0%A8%EB%B3%84%ED%99%94-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)
+### 온라인 강의(VOD)
 
-📗 [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2) 저자
+- 💻 [한 방으로 끝내는 판다스](https://www.udemy.com/course/pandas-i/)
+- 🏆 [텐서플로우 자격증 강의](https://learnaday.kr/open-course/tfcert)
+- 💡 [깃헙 블로그(Github Blog)로 차별화 된 나만의 홈페이지 만들기!](https://www.inflearn.com/course/%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B0%A8%EB%B3%84%ED%99%94-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)
 
-<img src="http://image.kyobobook.co.kr/images/book/xlarge/099/x9788956749099.jpg" width="150px" />
+### 책(Book I wrote)
+<p>
+  <img src="http://image.kyobobook.co.kr/images/book/xlarge/099/x9788956749099.jpg" width="150px" />
+</p>
 
-💻 **강의/강연**
+📗 [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2)
+
+
+
+### 💻 **강의/강연**
 - ✔️ 패스트캠퍼스 강의 - [직장인을 위한 파이썬 데이터분석 올인원 패키지 Online](https://fastcampus.co.kr/data_online_pyd).
 - ✔️ 패스트캠퍼스 Byte Degree 프로젝트 감수 - Byte Degree : Machine Learning with Python.
 - ✔️ 패스트캠퍼스 데이터분석 Capstone 프로젝트 & 포트폴리오 완성 과정 강의.
@@ -78,3 +92,6 @@
 - ✔️ DB 인재개발원 - 2023 빅데이터 AI 초급과정 강의.
 - ✔️ GS칼텍스 - 2023년 하반기 CDS 파이썬 데이터 분석, 머신러닝, 딥러닝(PyTorch) 과정 강의.
 - ✔️ DB 인재개발원 - 2023 빅데이터 AI 중급과정 강의.
+
+### Support
+<p><a href="https://www.buymeacoffee.com/teddynote"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teddynote" /></a></p><br><br>
