@@ -94,4 +94,4 @@
 - ✔️ DB 인재개발원 - 2023 빅데이터 AI 중급과정 강의.
 
 ### Support
-<p><a href="https://www.buymeacoffee.com/teddynote"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teddynote" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/teddylee777"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teddylee777" /></a></p><br><br>
