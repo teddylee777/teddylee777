@@ -86,6 +86,8 @@
 - ✔️ DB 인재개발원 - 2023 빅데이터 AI 초급과정 강의.
 - ✔️ GS칼텍스 - 2023년 하반기 CDS 파이썬 데이터 분석, 머신러닝, 딥러닝(PyTorch) 과정 강의.
 - ✔️ DB 인재개발원 - 2023 빅데이터 AI 중급과정 강의.
+- ✔️ 서울대학교 평생교육원 - 2024 파이썬과 ChatGPT를 활용한 서비스 제작 강의.
+- ✔️ 서울대학교 평생교육원 - 2024 PyTorch를 활용한 딥러닝 실습 강의.
 
 ### Support
 <p><a href="https://www.buymeacoffee.com/teddylee777"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teddylee777" /></a></p><br><br>
