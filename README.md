@@ -89,6 +89,7 @@
 - ✔️ 서울대학교 평생교육원 - 2024 파이썬과 ChatGPT를 활용한 서비스 제작 강의.
 - ✔️ 서울대학교 평생교육원 - 2024 PyTorch를 활용한 딥러닝 실습 강의.
 - ✔️ LangChain KR 밋업 (2024 Q1) - 연사 / 주제: [RAG - 우리가 절대 쉽게 원하는 결과물을 얻을 수 없는 이유](https://aifactory.space/task/2719/discussion/830)
+- ✔️ 아모레퍼시픽 - 2024 올라운더 마케터 (마케터를 위한 ChatGPT 활용법) 강의.
 
 ### Support
 <p><a href="https://www.buymeacoffee.com/teddylee777"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teddylee777" /></a></p><br><br>
