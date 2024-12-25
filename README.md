@@ -90,6 +90,30 @@
 - ✔️ 서울대학교 평생교육원 - 2024 PyTorch를 활용한 딥러닝 실습 강의.
 - ✔️ LangChain KR 밋업 (2024 Q1) - 연사 / 주제: [RAG - 우리가 절대 쉽게 원하는 결과물을 얻을 수 없는 이유](https://aifactory.space/task/2719/discussion/830)
 - ✔️ 아모레퍼시픽 - 2024 올라운더 마케터 (마케터를 위한 ChatGPT 활용법) 강의.
+- ✔️ LangChain KR 밋업 (2024 Q2) - 연사 / 주제: [초보자도 할 수 있는 고급RAG : 다중 에이전트와 LangGraph 제작](https://aifactory.space/task/4239/overview)
+- ✔️ 세종대 - "인공지능의 과거와 현재" 강연
+- ✔️ 패스트캠퍼스 [RAG비법노트](https://fastcampus.co.kr/data_online_teddy)
+- ✔️ GS칼텍스 - 2024년 상반기 CDS 파이썬 데이터 분석, 머신러닝, 딥러닝(PyTorch) 과정 강의.
+- ✔️ 패스트캠퍼스 - [Gencon2024 "효과적인 흐름 제어를 위한 고도의 Modular RAG 기법"](https://gencon2024.fastcampus.co.kr/session/7) 연사. 2024년 9월 20일(금) COEX
+- ✔️ 대구디지털진흥원(DIP) - "빅데이터 직무 UPSKILLING" 강의.
+- ✔️ 브라이언임팩트 네트워크 - "문서기반 RAG QA 시스템 구축" 강연.
+- ✔️ 서강대학교 - "Naive to Modular RAG 흐름 톺아보기" 강연.
+- ✔️ 한국항공공사 - "디지털 전환 시대의 데이터와 인공지능" 강연.
+- ✔️ 페토바이오 - "RAG 시스템 구축 및 Modular RAG 고도화 방안" 강의 및 컨설팅.
+- ✔️ 삼성리서치 - "2024 인공지능 트렌드: 생성형 AI의 비즈니스 도입" 강연.
+- ✔️ 삼성전자 - "생성형 AI 기본과정(PyTorch, HuggingFace, LangChain)" 강의.
+- ✔️ Amazon AWS - "핸즈온 Advanced RAG 까지의 세부 과정" 강연.
+- ✔️ GS칼텍스 - 2024년 하반기 CDS 파이썬 데이터 분석, 머신러닝, 딥러닝(PyTorch) 과정 강의.
+- ✔️ SK Wavehill - "from Naive to Modular RAG" 강연.
+- ✔️ 삼성E&A - "RAG 의 핵심 개념 및 시스템 구축 방안" 강연.
+- ✔️ 카카오 - "RAG의 전반적인 흐름: Naive to Modular RAG" 강연.
+- ✔️ 폴라리스오피스 - "RAG 시스템 구축 및 고도화 방안(Agentic RAG / Modular RAG 활용) 강의.
+- ✔️ 모두의 연구소 - "2024년 11월 비즈클럽: 생성형 AI의 비즈니스 도입 현황 및 준비과정" 강연.
+- ✔️ 모두콘 - [AI 시대의 생존 전략: 도구로서의 AI, 대체되지 않는 인재로 성장하기](https://moducon.modulabs.co.kr/session/a6) 연사. 2024년 12월 15일(일) 양재AT센터
+- ✔️ SAFFY - "LangGraph 활용 Modular RAG 구축" 강연.
+- ✔️ 포스텍(Postech) - "RAG 의 기본 개념부터 Modular RAG" 강의.
+- ✔️ AI프렌즈 - "Naive RAG to Modular RAG" 강연.
+- ✔️ 2024 AI Summit Seoul(제7회) - 핸즈온 워크샵 "LangGraph 를 활용한 멀티에이전트 구축" 강의.
   
 
 ### Support
