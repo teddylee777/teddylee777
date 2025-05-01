@@ -27,9 +27,6 @@
 - 💡 [깃헙 블로그(Github Blog)로 차별화 된 나만의 홈페이지 만들기!](https://www.inflearn.com/course/%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B0%A8%EB%B3%84%ED%99%94-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)
 
 ### 책(Book I wrote)
-<p>
-  <img src="http://image.kyobobook.co.kr/images/book/xlarge/099/x9788956749099.jpg" width="150px" />
-</p>
 
 📗 [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2)
 
