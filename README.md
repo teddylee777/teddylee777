@@ -109,6 +109,15 @@
 - ✔️ 포스텍(Postech) - "RAG 의 기본 개념부터 Modular RAG" 강의.
 - ✔️ AI프렌즈 - "Naive RAG to Modular RAG" 강연.
 - ✔️ 2024 AI Summit Seoul(제7회) - 핸즈온 워크샵 "LangGraph 를 활용한 멀티에이전트 구축" 강의.
+- ✔️ SK그룹 - "노코드 도구(dify) 를 활용한 LLM 어플리케이션 제작" 강의.
+- ✔️ SK그룹 - "LangChain / LangGraph 를 활용한 LLM 어플리케이션 개발" 강의.
+- ✔️ 고영테크놀러지 - "노코드 도구(dify) 를 활용한 LLM 어플리케이션 제작" 강의.
+- ✔️ KAIST CAIO 과정 - "AI Agent 트렌드 2025" 강연.
+- ✔️ AI Alliance - "AI Agent 트렌드 2025" 강연.
+- ✔️ 삼성 SDS - "From Naive to Modular RAG" 강연.
+- ✔️ 전자신문세미나 - "From Naive to Modular RAG" 강연.
+- ✔️ 한양대학교 인공지능융합대학원 - "AI Agent 트렌드 2025" 강연.
+- ✔️ 2025 카카오 트렌드 세미나 - "AI Agent 트렌드 2025" 강연.
   
 
 ### Support
