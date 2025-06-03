@@ -27,9 +27,9 @@
 - 💡 [깃헙 블로그(Github Blog)로 차별화 된 나만의 홈페이지 만들기!](https://www.inflearn.com/course/%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B0%A8%EB%B3%84%ED%99%94-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80)
 
 ### 책(Book I wrote)
-📕 [테디노트의 랭체인을 활용한 RAG 비법노트(기본편)](https://product.kyobobook.co.kr/detail/S000216574552)
-📘 [일잘러의 비밀, 챗GPT와 GPTs로 나만의 AI 챗봇 만들기](https://product.kyobobook.co.kr/detail/S000215667444)
-📗 [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2)
+- 📕 [테디노트의 랭체인을 활용한 RAG 비법노트(기본편)](https://product.kyobobook.co.kr/detail/S000216574552)
+- 📘 [일잘러의 비밀, 챗GPT와 GPTs로 나만의 AI 챗봇 만들기](https://product.kyobobook.co.kr/detail/S000215667444)
+- 📗 [파이썬 딥러닝 텐서플로(2021, 정보문화사)](http://www.yes24.com/Product/Goods/102603640?OzSrank=2)
 
 ### 💻 **강의/강연**
 - ✔️ 패스트캠퍼스 강의 - [직장인을 위한 파이썬 데이터분석 올인원 패키지 Online](https://fastcampus.co.kr/data_online_pyd).
